@@ -1,6 +1,6 @@
 # Brassicaceae classifier
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/dgellow-brassicaceaeclassifier-hber649v/voila/render/brassicaceae_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgellow/BrassicaceaeClassifier/master?filepath=%2Fvoila%2Frender%2Fbrassicaceae_classifier.ipynb)
 
 Based on [fast.ai](https://www.fast.ai/). Trained on images from Bing Image Search.
 
